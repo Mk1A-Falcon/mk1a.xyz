@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 #main_photo {
   height: 300px;
   width: 300px;
@@ -5,8 +9,8 @@
   object-position: center;
 }
 
-nav {
-  color:cadetblue;
+nav{
+  background-color:cadetblue;
   padding: 5px 10px 5px 10px;
   margin-bottom: 25px;
   margin-top: 20px;
@@ -17,6 +21,12 @@ nav {
   color:brown;
   padding: 5px 5px 5px 5px;
   border-radius: 25px;
+}
+
+.main_body_image {
+  padding: 5px 5px 5px 5px;
+  border-radius: 5px;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(255,255,255,0.5));
 }
 
 .tiny_description {
