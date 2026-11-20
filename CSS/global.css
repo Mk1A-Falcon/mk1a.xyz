@@ -4,3 +4,8 @@
   object-fit: cover;
   object-position: center;
 }
+
+.tiny_description {
+  font-size: 12px;
+  color: lightskyblue;
+}
