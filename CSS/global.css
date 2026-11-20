@@ -5,6 +5,20 @@
   object-position: center;
 }
 
+nav {
+  color:cadetblue;
+  padding: 5px 10px 5px 10px;
+  margin-bottom: 25px;
+  margin-top: 20px;
+  border-radius: 25px;
+}
+
+.navbar {
+  color:brown;
+  padding: 5px 5px 5px 5px;
+  border-radius: 25px;
+}
+
 .tiny_description {
   font-size: 12px;
   color: lightskyblue;
