@@ -1,6 +1,13 @@
 body {
   text-align: center;
-  background-color: cornsilk;
+  background-image: url("../Assets/flat_ground.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0 0 0;
 }
 
 #main_photo {
