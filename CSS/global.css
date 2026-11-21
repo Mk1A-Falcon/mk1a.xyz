@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background-color: cornsilk;
 }
 
 #main_photo {
@@ -31,7 +32,7 @@ nav{
 
 .main_body_image {
   display: inline-block;
-  padding: 5px 5px 5px 5px;
+  padding: 6px 5px 6px 5px;
   border-radius: 5px;
   background: linear-gradient(rgba(0,0,0,0.5), rgba(255,255,255,0.5));
 }
