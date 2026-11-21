@@ -23,6 +23,12 @@ nav{
   border-radius: 25px;
 }
 
+.main_body{
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+}
+
 .main_body_image {
   padding: 5px 5px 5px 5px;
   border-radius: 5px;
