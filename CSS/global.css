@@ -15,7 +15,7 @@ header {
   margin-right: 40px;
 }
 
-.main_body{
+#main_body{
   display: inline-block;
   padding: 10px 10px 10px 10px;
   border-radius: 23px;
