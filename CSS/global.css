@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-image: url("../Assets/flat_ground.png");
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
   min-height: 100vh;
@@ -8,6 +9,16 @@ body {
   justify-content: center;
   align-items: center;
   margin: 0 0 0 0;
+}
+
+header {
+  margin-right: 40px;
+}
+
+.main_body{
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  border-radius: 23px;
 }
 
 #main_photo {
@@ -29,12 +40,6 @@ nav{
   color:brown;
   padding: 5px 5px 5px 5px;
   border-radius: 25px;
-}
-
-.main_body{
-  display: inline-block;
-  padding: 10px 10px 10px 10px;
-  margin: 5px 5px 5px 5px;
 }
 
 .main_body_image {
