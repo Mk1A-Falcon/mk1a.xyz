@@ -20,6 +20,8 @@ header {
   padding: 10px 10px 10px 10px;
   border-radius: 23px;
   border-style: solid;
+  background-color: #0D1117;
+  color: #E6EDF3;
   box-shadow: 0px 0px 5px rgba(0,0,0,0.8);
   border: 4px 4px 4px 4px;
 }
@@ -42,9 +44,9 @@ nav{
 /* Blog page from here --> */
 
 #github_photo{
-  height: 300px;
-  width: 300px;
-  border-radius: 151px;
+  height: 250px;
+  width: 250px;
+  border-radius: 130px;
   object-fit: cover;
   object-position: center;
 }
